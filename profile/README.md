@@ -10,3 +10,10 @@
 <p align="center">
   Open-source projects and learning resources dedicated to elevating Rust expertise and systems-level craftsmanship.
 </p>
+
+## 📘 Organization Documents  
+  
+- [Mission](https://github.com/RustSystemsAcademy/.github/blob/main/docs/mission.md)
+- [Roadmap](https://github.com/RustSystemsAcademy/.github/blob/main/docs/roadmap.md)
+  
+  
